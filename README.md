@@ -25,4 +25,4 @@ Open the game go to Mods and activate mod first and then go to Options > Customi
 Note: Mod requires [Steamodded](https://github.com/Steamopollys/Steamodded/archive/refs/heads/main.zip)
 
 Programmed/Modded by [Satang]https://x.com/Stangza560 
-Artist by [BSAN]https://x.com/b_untita
+Artist by [BSAN]https://x.com/b_untitaA
