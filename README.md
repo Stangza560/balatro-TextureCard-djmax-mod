@@ -6,6 +6,8 @@
 
  This is a fan-made cosmetic mod for **Balatro**, featuring custom deck skins based on characters from **DJMAX**.
 
+ Note: Mod requires [Steamodded](https://github.com/Steamodded/smods)
+
 Installation
 Place this folder inside your Balatro `Mods/` directory and activate it in-game
 
@@ -22,7 +24,5 @@ Open the game go to Mods and activate mod first and then go to Options > Customi
 
 - This project is a non-commercial fan modification for the game Balatro. All DJMAX-related artwork and characters are property of Neowiz / Rocky Studio. This mod is for educational and entertainment purposes only. No copyright infringement intended.
   
-Note: Mod requires [Steamodded](https://github.com/Steamopollys/Steamodded/archive/refs/heads/main.zip)
-
 Programmed/Modded by [Satang]https://x.com/Stangza560 
 Artist by [BSAN]https://x.com/b_untitaA
