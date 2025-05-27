@@ -24,5 +24,5 @@ Open the game go to Mods and activate mod first and then go to Options > Customi
 
 - This project is a non-commercial fan modification for the game Balatro. All DJMAX-related artwork and characters are property of Neowiz / Rocky Studio. This mod is for educational and entertainment purposes only. No copyright infringement intended.
   
-Programmed/Modded by [Satang]https://x.com/Stangza560 
+Programmed/Modded by [Stang]https://x.com/Stangza560 
 Artist by [BSAN]https://x.com/b_untitaA
